@@ -1,0 +1,5 @@
+movi        r9,            6      
+movi    r8,   r9  
+movi r4, 5     
+movi r5, 5       
+movi   r10,   8     
